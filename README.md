@@ -6,6 +6,6 @@
 </br>
 
 ### Basic
--[x] Cdoe Structure [바로가기](https://www.naver.com) </br>
+-[x] Cdoe Structure [바로가기](https://github.com/asdfqaz74/core-javascript/blob/01.core/client/chapter/core/01.codeStructure.js) </br>
 -[ ] Cdoe Structure [바로가기](https://www.naver.com) </br>
 -[ ] Cdoe Structure [바로가기](https://www.naver.com)
