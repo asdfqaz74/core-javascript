@@ -252,7 +252,7 @@ const {
   이경화 = '500',
 } = salaries;
 
-console.log(이경화);
+// console.log(이경화);
 
 function createUserData(obj) {
   console.log(obj);
