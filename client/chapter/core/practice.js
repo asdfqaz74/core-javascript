@@ -74,7 +74,21 @@ a &&= b;
 console.log(a);
  */
 
-var arr = [200, 100, 300];
-arr.splice(2, 0, 10000);
+// var arr = [200, 100, 300];
+// arr.splice(2, 0, 10000);
 
-console.log(arr);
+// console.log(arr);
+
+const 응시자수 = prompt('응시자 수 입력해주세요');
+
+for (i = 0; i < 응시자수; i++) {
+  if (응시자.점수 > 70) {
+    합격;
+  } else {
+    불합격;
+  }
+}
+
+const testUser = prompt('응시자 수 입력');
+
+for (i=0 ; i )
