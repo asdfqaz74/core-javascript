@@ -49,6 +49,21 @@ function insertLast(node, text) {
 
   node.insertAdjacentHTML('beforeend', text);
 }
+function insertBefore(node, text) {
+  if (typeof node === 'string') node = getNode(node);
+
+  node.insertAdjacentHTML('beforebegin', text);
+}
+function insertFirst(node, text) {
+  if (typeof node === 'string') node = getNode(node);
+
+  node.insertAdjacentHTML('afterbegin', text);
+}
+function insertAfter(node, text) {
+  if (typeof node === 'string') node = getNode(node);
+
+  node.insertAdjacentHTML('afterend', text);
+}
 
 insertLast('h1', template);
 

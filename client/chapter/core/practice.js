@@ -79,16 +79,36 @@ console.log(a);
 
 // console.log(arr);
 
-const 응시자수 = prompt('응시자 수 입력해주세요');
+// const 응시자수 = prompt('응시자 수 입력해주세요');
 
-for (i = 0; i < 응시자수; i++) {
-  if (응시자.점수 > 70) {
-    합격;
-  } else {
-    불합격;
-  }
-}
+// for (i = 0; i < 응시자수; i++) {
+//   if (응시자.점수 > 70) {
+//     합격;
+//   } else {
+//     불합격;
+//   }
+// }
 
-const testUser = prompt('응시자 수 입력');
+// const testUser = prompt('응시자 수 입력');
 
-for (i=0 ; i )
+// for (i=0 ; i )
+
+// let name = prompt('자바스크립트의 공식 이름은 무엇일까요?');
+
+// if (name == 'ECMAScript') {
+//   console.log('정답입니다!');
+// } else {
+//   console.log('모르셨나요? 정답은 ECMAScript 입니다!');
+// }
+
+// let value = +prompt('숫자를 입력해주세요');
+
+// if (value > 0) {
+//   alert('1');
+// } else if (value == 0) {
+//   alert('0');
+// } else {
+//   alert('-1');
+// }
+
+let message = 
